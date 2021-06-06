@@ -1,0 +1,104 @@
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Main.resources
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\MaterialSkin.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\MaterialSkin.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.ProductAdd.resources
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.Products.resources
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CopyComplete
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\BLL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\DAL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\System.Data.SQLite.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\BLL.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\DAL.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\DAL.dll.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\System.Data.SQLite.xml
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\Utilities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\PointOfSale\bin\Debug\Utilities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Main.resources
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Orders.resources
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.ProductAdd.resources
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Products.resources
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.Cache
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\BLL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\Entities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\MaterialSkin.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\Utilities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\DAL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\System.Data.SQLite.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\BLL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\Entities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\MaterialSkin.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\Utilities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\DAL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\System.Data.SQLite.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\PointOfSale.exe.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\PointOfSale.exe
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\PointOfSale.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\BLL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\MaterialSkin.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\Utilities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\DAL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\System.Data.SQLite.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\BLL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\MaterialSkin.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\Utilities.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\DAL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\DAL.dll.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\System.Data.SQLite.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Dashboard.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Main.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Orders.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.ProductAdd.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Products.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Properties.Resources.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Sales.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.csproj.GenerateResource.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.csproj.CopyComplete
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.exe
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.SalesTemp.resources
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\PointOfSale\obj\Debug\PointOfSale.Login.resources

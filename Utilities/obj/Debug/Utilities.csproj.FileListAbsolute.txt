@@ -1,0 +1,22 @@
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\Barangay Automation System\Barangay Automation System\Utilities\bin\Debug\Utilities.dll
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\Barangay Automation System\Barangay Automation System\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\Barangay Automation System\Barangay Automation System\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\Barangay Automation System\Barangay Automation System\Utilities\obj\Debug\Utilities.dll
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\Barangay Automation System\Barangay Automation System\Utilities\obj\Debug\Utilities.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\Utilities\bin\Debug\Utilities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\Utilities\bin\Debug\Utilities.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\Utilities\obj\Debug\Utilities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Utilities\bin\Debug\Utilities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Utilities\obj\Debug\Utilities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Utilities\bin\Debug\Utilities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Utilities\bin\Debug\Utilities.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Utilities\obj\Debug\Utilities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Utilities\obj\Debug\Utilities.pdb

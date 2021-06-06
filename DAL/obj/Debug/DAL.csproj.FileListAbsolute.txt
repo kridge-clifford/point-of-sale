@@ -1,0 +1,54 @@
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\DAL.dll.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\DAL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\DAL.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\EntityFramework.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\EntityFramework.xml
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\obj\Debug\DAL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\DAL\obj\Debug\DAL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\DAL.dll.config
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\DAL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\DAL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\Entities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\Entities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\obj\Debug\DAL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\DAL\obj\Debug\DAL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\DAL.dll.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\DAL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\DAL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\EntityFramework.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\EntityFramework.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\obj\Debug\DAL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\DAL\obj\Debug\DAL.pdb

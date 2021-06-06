@@ -1,0 +1,43 @@
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\BLL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\BLL.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\DAL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\DAL.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\DAL.dll.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\obj\Debug\BLL.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\BLL\obj\Debug\BLL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\BLL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\BLL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\DAL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\Entities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\DAL.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\Entities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\obj\Debug\BLL.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\BLL\obj\Debug\BLL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\BLL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\BLL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\DAL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\DAL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\DAL.dll.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\obj\Debug\BLL.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\obj\Debug\BLL.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\Utilities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\BLL\bin\Debug\Utilities.pdb

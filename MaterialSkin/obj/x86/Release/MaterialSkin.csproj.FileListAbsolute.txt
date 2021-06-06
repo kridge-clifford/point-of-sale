@@ -1,0 +1,7 @@
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\bin\x86\Release\MaterialSkin.dll
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\bin\x86\Release\MaterialSkin.pdb
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\obj\x86\Release\MaterialSkin.csprojResolveAssemblyReference.cache
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\obj\x86\Release\MaterialSkin.Properties.Resources.resources
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\obj\x86\Release\MaterialSkin.csproj.GenerateResource.Cache
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\obj\x86\Release\MaterialSkin.dll
+C:\Users\Micoboy\documents\visual studio 2015\Projects\MaterialSkin\obj\x86\Release\MaterialSkin.pdb

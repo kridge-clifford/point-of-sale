@@ -1,0 +1,6 @@
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\LTO Medical System\MaterialSkin\bin\x86\Debug\MaterialSkin.dll
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\LTO Medical System\MaterialSkin\bin\x86\Debug\MaterialSkin.pdb
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\LTO Medical System\MaterialSkin\obj\x86\Debug\MaterialSkin.Properties.Resources.resources
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\LTO Medical System\MaterialSkin\obj\x86\Debug\MaterialSkin.csproj.GenerateResource.Cache
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\LTO Medical System\MaterialSkin\obj\x86\Debug\MaterialSkin.dll
+C:\Users\Group 11\Documents\Visual Studio 2015\Projects\LTO Medical System\MaterialSkin\obj\x86\Debug\MaterialSkin.pdb

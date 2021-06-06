@@ -1,0 +1,17 @@
+C:\Users\6P-DESK2\source\repos\PointOfSale\Entities\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\Entities\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\source\repos\PointOfSale\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\source\repos\PointOfSale\Entities\obj\Debug\Entities.dll
+C:\Users\6P-DESK2\source\repos\PointOfSale\Entities\obj\Debug\Entities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Entities\bin\Debug\Entities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Entities\bin\Debug\Entities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Entities\obj\Debug\Entities.dll
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Entities\obj\Debug\Entities.pdb
+C:\Users\Group 11 Laptop4\Documents\Visual Studio 2015\Projects\pointofsale\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Entities\bin\Debug\Entities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Entities\bin\Debug\Entities.pdb
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Entities\obj\Debug\Entities.dll
+C:\Users\6P-DESK2\Documents\Visual Studio 2017\Projects\pointofsale\Entities\obj\Debug\Entities.pdb
